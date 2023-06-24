@@ -23,7 +23,7 @@
 }
 
 .todo-app h2 {
-    color: #d4eaa6;
+    color: #f9b28cc4;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
@@ -124,4 +124,18 @@ ul li span:hover{
     border-radius: 5px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
     z-index: 9999;
+}
+
+.quote {
+    background-color: transparent;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.quote p {
+    font-size: 25px;
+    color: #342c2c;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
 }
